@@ -1,6 +1,6 @@
 # Hey! :wave:
 
-My name is **Vitor Rozeno**, I'm 18 years old and I'm an **IT** student from Brazil.
+My name is **Vitor Rozeno**, I'm an 18 years old **IT** student from Brazil.
 
 I'm passionate about art and creating things. 
 
