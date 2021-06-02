@@ -2,6 +2,8 @@
 
 <img align="right" src="https://64.media.tumblr.com/07c4b08797d5b4d4dcc037981534495a/tumblr_nym9mowTqW1qhntxeo1_400.gifv"/>
 
+
+
 _My name is **Vitor Rozeno**, I'm 18 years old and I'm an **IT** student from Brazil._
 
 _I'm passionate about art and creating things._ 
