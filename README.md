@@ -30,7 +30,7 @@ _Nowadays, I study to improve my technical skills and make my ideas come true._
 
 
 
-[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=dracula)](https://github.com/vesrozeno/)
+[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=dark)](https://github.com/vesrozeno/)
 
-[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=dracula)](https://github.com/vesrozeno/)
+[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=dark)](https://github.com/vesrozeno/)
 
