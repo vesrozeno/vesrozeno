@@ -1,19 +1,26 @@
-# Hey! :wave:
+# Hey! 👋
 
-_My name is **Vitor Rozeno**, I'm an 18 years old  **IT** student from Brazil._
+*My name is **Vitor Rozeno**, I'm 18 years old and I'm an **IT** student from Brazil.*
 
-_I'm passionate about art and creating things._ 
+*I'm passionate about art and creating things.*
 
-_Nowadays, I study to improve my technical skills and make my ideas come true._
+*Nowadays, I study to improve my technical skills and make my ideas come true.*
 
-##### 🔧 Technologies: <img width = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>  <img width = "40px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" />  <img width = "50px" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"/>  <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/864px-Microsoft_Office_logo_%282013–2019%29.svg.png" />   <img width = "40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />     
+##### Technologies:
 
-##### 📃 Languages: <img width = "50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />  
+![img](https://camo.githubusercontent.com/d63d473e728e20a286d22bb2226a7bf45a2b9ac6c72c59c0e61e9730bfe4168c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)![img](https://camo.githubusercontent.com/3a0f693cfa032ea4404e8e02d485599bd0d192282b921026e89d271aaa3d7565/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465) ![img](https://camo.githubusercontent.com/b13ed67c809178963ce9d538175b02649800772be1ce0cb02da5879e5614e236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426f6f7473747261702d3536334437433f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465) ![img](https://camo.githubusercontent.com/7a9f81fa65414698593f11241441b84b05a384143dc213abf28836863e7f7de2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6963726f736f66745f4f66666963652d4438334230313f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6963726f736f66742d6f6666696365266c6f676f436f6c6f723d7768697465)
 
-##### 📚 Currently studying:  <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/> <img width = "40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> <img width = "60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/>
+##### Languages:
 
-[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=tokyonight)](https://github.com/vesrozeno/)[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
+![img](https://camo.githubusercontent.com/3e1012ffd12fb3c5a64eb49efb221ba71e9c84bb12f64b2a230351ae5a831da3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465) ![img](https://camo.githubusercontent.com/832a785b041e633661fcf1824f736d0fe3676a970d226dc14b117d5a68750e03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432b2b2d3030353939433f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465)
 
-<p align = "center"> <strong>Contact me:</strong>
-    <a  href ="https://www.linkedin.com/in/vitor-rozeno/"><img width = "40px" src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png"/></a>  <a href="https://www.instagram.com/vesrozeno/"><img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a></p>
+##### Currently studying:
+
+![img](https://camo.githubusercontent.com/c6a93410baf71991a808a96a2fcc4241401eb9313b6e8d474c6d587f91e1582b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4b6f746c696e2d3030393544353f267374796c653d666f722d7468652d6261646765266c6f676f3d6b6f746c696e266c6f676f436f6c6f723d7768697465) ![img](https://camo.githubusercontent.com/dd433625a6e00049c26f08143705ff9e32d5da44f503f1be133664b11e37e34b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465) ![img](https://camo.githubusercontent.com/f36a579a7440dd2cd03da4903249f86d0d44cb7020fd902512bccd139784b363/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2e4e45542d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d2e6e6574266c6f676f436f6c6f723d7768697465) ![img](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
+
+##### Contact me:
+
+[![linkedin](https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465)](https://www.linkedin.com/in/vitor-rozeno/) [![image](https://camo.githubusercontent.com/b3d4671768bd0f9b6c8f410a25a96e0c5a4d135208d8910461e986f97e7985ab/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f496e7374616772616d2d4534343035463f7374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465)](https://www.instagram.com/vesrozeno/)
 
