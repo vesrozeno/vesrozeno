@@ -1,36 +1,19 @@
 # Hey! :wave:
 
-<img align="right" width = "180px" src="https://64.media.tumblr.com/07c4b08797d5b4d4dcc037981534495a/tumblr_nym9mowTqW1qhntxeo1_400.gifv"/>
-
-
-
-_My name is **Vitor Rozeno**, I'm 18 years old and I'm an **IT** student from Brazil._
+_My name is **Vitor Rozeno**, I'm an 18 years old  **IT** student from Brazil._
 
 _I'm passionate about art and creating things._ 
 
 _Nowadays, I study to improve my technical skills and make my ideas come true._
 
-##### Contact me:
+##### 🔧 Technologies: <img width = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>  <img width = "40px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" />  <img width = "50px" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"/>  <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/864px-Microsoft_Office_logo_%282013–2019%29.svg.png" />   <img width = "40px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />     
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-rozeno/)  [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vesrozeno/)
+##### 📃 Languages: <img width = "50px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />  
 
-##### Technologies:
+##### 📚 Currently studying:  <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/> <img width = "40px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/> <img width = "60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" />
+[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=tokyonight)](https://github.com/vesrozeno/)[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
 
-<img align="right" width="180px" src="https://media.tenor.com/images/d1d7f6ef9cf24497a9d61b0a83a0f50e/tenor.gif"/>
-
-##### Languages:
-
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> 
-
-##### Currently studying:
-
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
-
-
-
-[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=dark)](https://github.com/vesrozeno/)
-
-[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=dark)](https://github.com/vesrozeno/)
+<p align = "center"> <strong>Contact me:</strong>
+    <a  href ="https://www.linkedin.com/in/vitor-rozeno/"><img width = "40px" src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png"/></a>  <a href="https://www.instagram.com/vesrozeno/"><img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a></p>
 
