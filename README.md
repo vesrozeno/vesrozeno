@@ -6,7 +6,7 @@ _I'm passionate about art and creating things._
 
 _Nowadays, I study to improve my technical skills and make my ideas come true._
 
-### 🔧 Technologies: <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>  <img width = "35px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" />  <img width = "40px" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"/>  <img width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/864px-Microsoft_Office_logo_%282013–2019%29.svg.png" />   <img width = "30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />     
+### 🔧 Technologies: <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>  <img width = "30px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" />  <img width = "40px" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"/>  <img width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/864px-Microsoft_Office_logo_%282013–2019%29.svg.png" />   <img width = "30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />     
 
 ### 📃 Languages: <img width = "40px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" /><img width = "35px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />  
 
