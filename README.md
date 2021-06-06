@@ -1,19 +1,15 @@
-# Hey! :wave:
-
 _My name is **Vitor Rozeno**, I'm an 18 years old  **IT** student from Brazil._
 
 _I'm passionate about art and creating things._ 
 
-_Nowadays, I study to improve my technical skills and make my ideas come true._
+_Nowadays, I study to improve my technical skills and make my ideas come true._ 
 
-### 🔧 Technologies: <img width = "40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"/>  <img width = "28px" src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo-1.png" />   <img width = "40px" src="https://getbootstrap.com.br/docs/4.1/assets/img/bootstrap-stack.png"/>    <img width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Microsoft_Office_logo_%282013–2019%29.svg/864px-Microsoft_Office_logo_%282013–2019%29.svg.png" />     <img width = "30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />     
+[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
+<p align="left">
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-rozeno/" /></a>
 
-### 📃 Languages: <img width = "32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png" />  <img width = "33px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" />  
-
-### 📚 Currently studying:  <img width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/2048px-Kotlin_Icon.svg.png"/> <img width = "32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png"/>   <img width = "50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png"/>
-
-[![card-vesrozeno](https://github-readme-stats.vercel.app/api?username=vesrozeno&theme=tokyonight)](https://github.com/vesrozeno/)  [![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
-
-<p align = "center"> <strong>Contact me:</strong>
-    <a  href ="https://www.linkedin.com/in/vitor-rozeno/"><img width = "30px" src="https://expertdigital.net/wp-content/uploads/2018/11/linkedin-logo.png"/></a>  <a href="https://www.instagram.com/vesrozeno/"><img width = "30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png"/></a></p>
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vesrozeno/"/></a>
+</p>  
 
