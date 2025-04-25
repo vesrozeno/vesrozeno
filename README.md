@@ -1,4 +1,5 @@
-[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
+[![vesrozeno](https://github-readme-stats.vercel.app/api/top-langs/?username=vesrozeno&hide=html,jupyter%20notebook&layout=compact&theme=tokyonight)](https://github.com/vesrozeno/)
+
 
 ##### Contact me:
 
